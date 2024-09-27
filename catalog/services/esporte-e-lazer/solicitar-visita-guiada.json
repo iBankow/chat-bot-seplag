@@ -1,0 +1,177 @@
+{
+  "isOnline": true,
+  "isDigital": false,
+  "highlighted": false,
+  "page_count": 0,
+  "created_at": "2024-05-23T13:58:43.452Z",
+  "updated_at": "2024-07-12T20:40:07.306Z",
+  "id": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+  "description": "Visitas guiadas à Arena Pantanal. Disponibilizar uma visitação turística guiada, proporcionar lazer e turismo a população mato-grossense e seus visitantes. Além disso, o projeto vem como iniciativa de fomentar a valoração esportiva, do bem público e da diversificação da oferta turística da capital.",
+  "isFree": true,
+  "link": "https://portal.mt.gov.br/app/agendamento-de-visita-guiada-arena-pantanal",
+  "name": "Solicitar Visita Guiada: Arena Pantanal",
+  "imageUrl": "",
+  "tags": [
+    "agendamento",
+    "agendamento de visitas guiadas",
+    "visitas guiadas",
+    "arena pantanal"
+  ],
+  "targets": [
+    "Cidadão",
+    "Empresa",
+    "Gestão Pública"
+  ],
+  "slug": "solicitar-visita-guiada:-arena-pantanal",
+  "averageRatings": {
+    "count": 99,
+    "average": 1.3
+  },
+  "active": true,
+  "popularNames": [],
+  "category": {
+    "created_at": "2024-05-23T13:58:43.452Z",
+    "updated_at": "2024-05-23T13:58:43.452Z",
+    "id": "4b7029f9-732b-4d8c-8f2d-1b7bb5ed03c9",
+    "slug": "esporte-e-lazer",
+    "name": "Esporte e Lazer",
+    "description": "Esporte e Lazer",
+    "hidden": false,
+    "icon": "fa-person-swimming",
+    "orderIndex": 0
+  },
+  "department": {
+    "created_at": "2024-05-23T13:58:43.452Z",
+    "updated_at": "2024-05-23T13:58:43.452Z",
+    "id": "5fbef089-51d8-4ba3-a1cc-793e3fccef96",
+    "slug": "secretaria-de-estado-de-cultura-esporte-e-lazer",
+    "name": "SECRETARIA DE ESTADO DE CULTURA, ESPORTE E LAZER",
+    "shortName": "SECEL",
+    "link": "http://www.secel.mt.gov.br/inicio",
+    "description": "<p>A Secretaria de Estado de Cultura, Esporte e Lazer – SECEL é o órgão que promove o acesso universal à cultura por meio do estímulo à criação artística, da democratização das condições de produção, da oferta de formação, da expansão dos meios de difusão, da ampliação das possibilidades de fruição e da livre circulação de valores culturais.&nbsp;</p>",
+    "mission": "<p>Implementar Políticas Públicas de Cultura, Esporte e Lazer, a fim de proporcionar o desenvolvimento humano e a inclusão social à sociedade mato-grossense.</p>",
+    "vision": "<p>Ser referência nacional como entidade comprometida com a promoção do acesso e o desenvolvimento da Cultura, do Esporte e do Lazer em Mato Grosso até o ano de 2030.</p>",
+    "values": "<p>Cooperação: valorização do espírito de equipe, onde o interesse do coletivo deve sempre prevalecer sobre o interesse individual.</p>",
+    "hidden": false,
+    "active": true
+  },
+  "info": [
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-12T19:52:43.589Z",
+      "id": "c91df17f-03f0-4829-9825-305713aa3336",
+      "title": "Exigências para realizar o serviço",
+      "text": "<p><strong>Quais documentos preciso ter para realizar o serviço?</strong></p><ul><li>Formulário preenchido e enviado por e-mail.</li><li>Documento de identificação pessoal (RG e CPF).</li></ul><p><br></p><p><strong>Quanto custa o serviço?</strong></p><p>Gratuito.</p>",
+      "orderIndex": 0,
+      "icon": "fa-magnifying-glass",
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    },
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-12T19:52:16.280Z",
+      "id": "af8f6ddc-3d88-4d69-be33-bad77323d878",
+      "title": "Quem pode utilizar este serviço?",
+      "text": "<ul><li>Pessoas físicas, entidades e associações, escolas públicas e particulares.</li><li>Até 30 pessoas quando o grupo está pré-formado/ fechado.</li><li>Até 20 pessoas quando o grupo é organizado pela secretaria reunindo as pessoas interessadas.</li></ul>",
+      "orderIndex": 1,
+      "icon": "fa-user",
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    },
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-09T16:28:27.026Z",
+      "id": "e707b0e5-12db-47ec-ae26-4d391c4fc350",
+      "title": "Quanto tempo leva?",
+      "text": "<p>Mínimo 02 (dois) dias úteis.</p>",
+      "orderIndex": 2,
+      "icon": "fa-clock",
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    },
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-09T16:28:18.222Z",
+      "id": "1f44346f-5f01-44a9-a517-186280a920f6",
+      "title": "Prioridade de Atendimento",
+      "text": "<p> Pela ordem cronológica de solicitação.</p>",
+      "orderIndex": 4,
+      "icon": "fa-check",
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    },
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-12T19:52:38.823Z",
+      "id": "ec613b35-d0bf-4885-9fbc-0e33f6ec176d",
+      "title": "Canais de Acesso",
+      "text": "<p>Secretaria de Estado de Cultura, Esporte e Lazer - SECEL</p><p>Avenida José Monteiro de Figueiredo (Lava Pés), 510,Bairro Duque de Caxias, Cuiabá-MT, CEP: 78043-300</p><p>Horário de funcionamento: 8h às 12h - 14h às 18h</p><p>Telefone: (65) 3613-4947</p><p>E-mail: <a href=\"mailto:agendamentoesportivo@secel.mt.gov.br\" rel=\"noopener noreferrer\" target=\"_blank\">agendamentoesportivo@secel.mt.gov.br</a></p><p>Site: <a href=\"http://www.secel.mt.gov.br\" rel=\"noopener noreferrer\" target=\"_blank\">http://www.secel.mt.gov.br</a></p>",
+      "orderIndex": 5,
+      "icon": "fa-building-columns",
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    },
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-12T19:52:32.567Z",
+      "id": "10543487-5de8-4847-a0d3-fcc706ca40aa",
+      "title": "Outros Informações",
+      "text": "<p><strong style=\"color: rgb(0, 0, 0);\">Observações</strong></p><ul><li>Pessoas com deficiência ou mobilidade reduzida deverão informar previamente qual a necessidade para adaptação do roteiro.</li><li>As visitas guiadas serão divididas por grupos de no mínimo 10 e máximo 20 pessoas, as segundas, quartas e sextas, sendo um grupo por período (matutino e vespertino).</li><li>Se não fechar o número mínimo, o visitante será redirecionado para outra data ou período.</li><li>Para grupos pré-formados/ fechados (escolas, universidades, excursões) o máximo é de 30 pessoas +1 condutor responsável pelo grupo (professor ou guia de turismo).</li><li>Os horários disponíveis são às 9h e às 15h.</li><li>Durante o <strong>“Passo 2”</strong>, é possível acompanhar o status da solicitação, basta clicar em <em><u>Acompanhar Agendamento Realizado</u></em>.</li></ul><p><br></p><p><strong>Legislação</strong></p>",
+      "orderIndex": 6,
+      "icon": "fa-circle-info",
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    }
+  ],
+  "steps": [
+    {
+      "created_at": "2024-07-12T20:38:24.396Z",
+      "updated_at": "2024-07-12T20:38:24.396Z",
+      "id": "434b6d7f-c9da-4e1d-b679-574a7fbedc13",
+      "name": "Atendimento Semipresencial",
+      "description": "Etapas para obter o serviço",
+      "channel": "in_person",
+      "htmlContent": "<p><strong>Passo 1</strong>&nbsp;- Acessar o aplicativo&nbsp;<a href=\"https://www.mtcidadao.mt.gov.br/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(24, 144, 255);\">MT Cidadão</a>.</p><ul><li>O acesso pode ser feito usando CPF e senha cadastrada na “Nota MT”. Se necessário, pode realizar o cadastro no aplicativo.</li></ul><p><strong>Passo 2</strong>&nbsp;- Clicar em&nbsp;<em><u>Realizar Novo Agendamento</u></em>.</p><p><strong>Passo 3</strong>&nbsp;- Preencher o formulário de agendamento.</p><p><strong>Passo 4</strong>&nbsp;- Aguardar confirmação por e-mail.</p><p><strong>Passo 5</strong>&nbsp;- Comparecer na data e horário agendado.</p>",
+      "orderIndex": 1,
+      "documents": [],
+      "catalogItemId": "6b9e0683-df28-4252-8c7c-e7a9ab00863f",
+      "active": true
+    }
+  ],
+  "departmentSections": [
+    {
+      "created_at": "2024-05-23T13:58:43.452Z",
+      "updated_at": "2024-07-11T15:18:41.689Z",
+      "id": "146c3672-be0d-468b-b410-80ed4d404796",
+      "name": "SECEL - Secretaria de Estado de Cultura de Mato Grosso",
+      "address": "Av. José Monteiro de Figueiredo, 510",
+      "postalCode": "78.043-352",
+      "district": "",
+      "complement": "Duque de Caxias",
+      "city": "Cuiabá",
+      "state": "Mato Grosso",
+      "countryCode": "Brasil",
+      "openingTime": "8h às 12h - 14h às 18h",
+      "telephone": "(65) 3613-0201",
+      "email": "",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3843.071099127855!2d-56.113053885147714!3d-15.587849689179901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x939db186d2d7e133%3A0xe9ad8106a27dd023!2sSecretaria%20de%20Estado%20de%20Cultura%2C%20Esporte%20e%20Lazer%20de%20Mato%20Grosso!5e0!3m2!1spt-BR!2sbr!4v1679496551222!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+      "active": true,
+      "department": {
+        "created_at": "2024-05-23T13:58:43.452Z",
+        "updated_at": "2024-05-23T13:58:43.452Z",
+        "id": "5fbef089-51d8-4ba3-a1cc-793e3fccef96",
+        "slug": "secretaria-de-estado-de-cultura-esporte-e-lazer",
+        "name": "SECRETARIA DE ESTADO DE CULTURA, ESPORTE E LAZER",
+        "shortName": "SECEL",
+        "link": "http://www.secel.mt.gov.br/inicio",
+        "description": "<p>A Secretaria de Estado de Cultura, Esporte e Lazer – SECEL é o órgão que promove o acesso universal à cultura por meio do estímulo à criação artística, da democratização das condições de produção, da oferta de formação, da expansão dos meios de difusão, da ampliação das possibilidades de fruição e da livre circulação de valores culturais.&nbsp;</p>",
+        "mission": "<p>Implementar Políticas Públicas de Cultura, Esporte e Lazer, a fim de proporcionar o desenvolvimento humano e a inclusão social à sociedade mato-grossense.</p>",
+        "vision": "<p>Ser referência nacional como entidade comprometida com a promoção do acesso e o desenvolvimento da Cultura, do Esporte e do Lazer em Mato Grosso até o ano de 2030.</p>",
+        "values": "<p>Cooperação: valorização do espírito de equipe, onde o interesse do coletivo deve sempre prevalecer sobre o interesse individual.</p>",
+        "hidden": false,
+        "active": true
+      }
+    }
+  ],
+  "departmentSectors": []
+}
