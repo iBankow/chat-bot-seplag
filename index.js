@@ -6,15 +6,12 @@ const PATH = "./catalago/services/";
 function main() {
   const categories = fs.readdirSync(PATH);
 
-  console.log(categories);
-
   for (let j = 0; j < categories.length; j++) {
     const services = fs.readdirSync(PATH + categories[j]);
     for (let i = 0; i < services.length; i++) {
       const service = JSON.parse(
         fs.readFileSync(PATH + categories[j] + "/" + services[i])
       );
-      console.log(service);
 
       let txt = "";
 
