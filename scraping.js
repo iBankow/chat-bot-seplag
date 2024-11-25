@@ -1,4 +1,4 @@
-import categories from "./data/categories.js";
+import { categories } from "./data/categories.js";
 import axios from "axios";
 import fs from "node:fs/promises";
 import fsSync from "node:fs";
@@ -21,7 +21,7 @@ async function main() {
     }
   }
 }
-const PATH_CATEGORIES = "./catalago/services/";
+const PATH_CATEGORIES = "./catalog/services/";
 
 async function saveFile(service, category) {
   const folderName = PATH_CATEGORIES + category + "/";

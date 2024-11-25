@@ -1,4 +1,4 @@
-const categories = [
+export const categories = [
   {
     value: "administracao-publica",
     href: "/app/catalog/list/administracao-publica",
